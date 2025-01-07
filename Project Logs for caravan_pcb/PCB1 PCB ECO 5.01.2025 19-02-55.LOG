@@ -1,0 +1,10 @@
+Added Component: Designator=R19(R 0402)
+Added Component: Designator=R20(R 0402)
+Added Pin To Net: NetName=12V Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=Battery Pin=IC2-12
+Added Pin To Net: NetName=Battery Pin=R19-1
+Added Pin To Net: NetName=Battery Pin=R20-2
+Added Net: Name=Battery
+Added Member To Class: ClassName=MCU Member=Component R19 47k
+Added Member To Class: ClassName=MCU Member=Component R20 13k

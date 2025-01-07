@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=CON4-3
+Change Component Footprint: Designator=CON4 Old Footprint=BM03B-SRSS-TB New Footprint=SMD PAD
+Change Component Comment : Designator=CON4 Old Comment=3 Pin New Comment=1 Pin
+Added Component: Designator=CON14(SMD PAD)
+Added Pin To Net: NetName=GND Pin=CON14-1
+Added Pin To Net: NetName=NetCON4_1 Pin=CON4-1
+Added Pin To Net: NetName=NetCON4_1 Pin=Q1-5_8
+Added Net: Name=NetCON4_1
+Added Member To Class: ClassName=DC-DC Member=Component CON14 1 Pin

@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=12V Pin=C1-1
+Removed Pin From Net: NetName=12V Pin=C2-1
+Removed Pin From Net: NetName=12V Pin=C3-1
+Removed Pin From Net: NetName=12V Pin=C13-1
+Removed Pin From Net: NetName=12V Pin=C14-1
+Removed Pin From Net: NetName=12V Pin=C15-1
+Removed Pin From Net: NetName=12V Pin=C16-1
+Removed Pin From Net: NetName=12V Pin=C17-1
+Removed Pin From Net: NetName=12V Pin=C18-1
+Removed Pin From Net: NetName=12V Pin=C19-1
+Removed Pin From Net: NetName=12V Pin=C20-1
+Removed Pin From Net: NetName=12V Pin=C22-1
+Removed Pin From Net: NetName=12V Pin=C23-1
+Removed Pin From Net: NetName=12V Pin=D1-1
+Removed Pin From Net: NetName=SDA_TEMP Pin=IC1-1
+Removed Pin From Net: NetName=12V Pin=IC1-2
+Removed Pin From Net: NetName=3.3V Pin=IC1-5
+Removed Pin From Net: NetName=SCL_TEMP Pin=IC1-6
+Removed Pin From Net: NetName=12V Pin=IC1-7
+Removed Pin From Net: NetName=12V Pin=IC3-5
+Removed Pin From Net: NetName=12V Pin=IC4-5
+Removed Pin From Net: NetName=12V Pin=IC5-5
+Removed Pin From Net: NetName=12V Pin=IC6-3
+Removed Pin From Net: NetName=12V Pin=IC7-1
+Removed Pin From Net: NetName=12V Pin=IC7-3
+Removed Pin From Net: NetName=12V Pin=IC8-5
+Removed Pin From Net: NetName=12V Pin=Q1-1
+Removed Pin From Net: NetName=12V Pin=Q1-2
+Removed Pin From Net: NetName=12V Pin=Q1-3
+Removed Member From Class: ClassName=MCU Member=IC1
+Change Component Footprint: Designator=C20 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C21 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C24 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C25 Old Footprint=C 0603 New Footprint=C 0805
+Change Component Footprint: Designator=C1 Old Footprint=C 0603 New Footprint=C 1206
+Change Component Footprint: Designator=C2 Old Footprint=C 0603 New Footprint=C 1206
+Change Component Footprint: Designator=C6 Old Footprint=C 0603 New Footprint=C 1206
+Change Component Footprint: Designator=C7 Old Footprint=C 0603 New Footprint=C 1206
+Change Component Footprint: Designator=C14 Old Footprint=C 0805 New Footprint=C 1206
+Change Component Footprint: Designator=C16 Old Footprint=C 0805 New Footprint=C 1206
+Change Component Footprint: Designator=C18 Old Footprint=C 0805 New Footprint=C 1206
+Change Component Footprint: Designator=C23 Old Footprint=C 0805 New Footprint=C 1206
+Change Net Name : Old Net Name=12V New Net Name=GND
+Added Pin To Net: NetName=12V Pin=C1-1
+Added Pin To Net: NetName=12V Pin=C2-1
+Added Pin To Net: NetName=12V Pin=C3-1
+Added Pin To Net: NetName=12V Pin=C13-1
+Added Pin To Net: NetName=12V Pin=C14-1
+Added Pin To Net: NetName=12V Pin=C15-1
+Added Pin To Net: NetName=12V Pin=C16-1
+Added Pin To Net: NetName=12V Pin=C17-1
+Added Pin To Net: NetName=12V Pin=C18-1
+Added Pin To Net: NetName=12V Pin=C19-1
+Added Pin To Net: NetName=12V Pin=C20-1
+Added Pin To Net: NetName=12V Pin=C22-1
+Added Pin To Net: NetName=12V Pin=C23-1
+Added Pin To Net: NetName=12V Pin=D1-1
+Added Pin To Net: NetName=12V Pin=IC3-5
+Added Pin To Net: NetName=12V Pin=IC4-5
+Added Pin To Net: NetName=12V Pin=IC5-5
+Added Pin To Net: NetName=12V Pin=IC6-3
+Added Pin To Net: NetName=12V Pin=IC7-1
+Added Pin To Net: NetName=12V Pin=IC7-3
+Added Pin To Net: NetName=12V Pin=IC8-5
+Added Pin To Net: NetName=12V Pin=Q1-1
+Added Pin To Net: NetName=12V Pin=Q1-2
+Added Pin To Net: NetName=12V Pin=Q1-3
+Added Net: Name=12V
+Added Room: Name=DC-DC
+Added Room: Name=DC_DRIVERS
+Added Room: Name=MCU
