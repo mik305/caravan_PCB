@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for caravan_pcb
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -194,14 +194,18 @@ GenerateClassCluster=0
 DocumentUniqueId=AZLQEZCK
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for caravan_pcb\PCB1.EXTREP
+DocumentPath=
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for caravan_pcb\PCB1.REP
+DocumentPath=Project Outputs for caravan_pcb\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for caravan_pcb\PCB1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
 DocumentPath=Project Outputs for caravan_pcb\PCB1.RUL
 DItemRevisionGUID=
 
@@ -252,7 +256,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for caravan_pcb
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
