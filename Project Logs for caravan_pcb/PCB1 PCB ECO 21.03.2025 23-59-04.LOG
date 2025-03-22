@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=EN Pin=C31-1
+Removed Pin From Net: NetName=IO0 Pin=IC2-27
+Removed Pin From Net: NetName=IO0 Pin=J1-6
+Removed Pin From Net: NetName=EN Pin=R17-1
+Removed Pin From Net: NetName=EN Pin=S1-3
+Removed Pin From Net: NetName=EN Pin=S1-4
+Change Component Designator: OldDesignator=GND NewDesignator=CON14
+Change Component Designator: OldDesignator=VCC NewDesignator=CON4
+Added Component: Designator=C36(C 0402)
+Added Component: Designator=C37(C 0402)
+Added Component: Designator=C38(C 0402)
+Added Component: Designator=C39(C 0402)
+Added Component: Designator=R22(R 0402)
+Added Component: Designator=R23(R 0402)
+Added Pin To Net: NetName=3.3V Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=3.3V Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=3.3V Pin=C38-1
+Added Pin To Net: NetName=GND Pin=C38-2
+Added Pin To Net: NetName=3.3V Pin=C39-1
+Added Pin To Net: NetName=GND Pin=C39-2
+Added Pin To Net: NetName=IO0 Pin=R22-2
+Added Pin To Net: NetName=EN Pin=R23-1
+Change Net Name : Old Net Name=IO0 New Net Name=NetC27_1
+Added Pin To Net: NetName=IO0 Pin=IC2-27
+Added Pin To Net: NetName=IO0 Pin=J1-6
+Added Pin To Net: NetName=IO0 Pin=R22-1
+Added Net: Name=IO0
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=R17-1
+Added Pin To Net: NetName=NetC31_1 Pin=R23-2
+Added Pin To Net: NetName=NetC31_1 Pin=S1-3
+Added Pin To Net: NetName=NetC31_1 Pin=S1-4
+Added Net: Name=NetC31_1
+Added Member To Class: ClassName=DC_DRIVERS Member=Component C36 100nF
+Added Member To Class: ClassName=DC_DRIVERS Member=Component C37 100nF
+Added Member To Class: ClassName=DC_DRIVERS Member=Component C38 100nF
+Added Member To Class: ClassName=DC_DRIVERS Member=Component C39 100nF
+Added Member To Class: ClassName=MCU Member=Component R22 100R
+Added Member To Class: ClassName=MCU Member=Component R23 100R
