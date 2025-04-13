@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3.3V Pin=AC1-12
+Removed Pin From Net: NetName=3.3V Pin=IC1-12
+Added Component: Designator=R47(R 0402)
+Added Component: Designator=R48(R 0402)
+Added Pin To Net: NetName=3.3V Pin=R47-2
+Added Pin To Net: NetName=3.3V Pin=R48-2
+Added Pin To Net: NetName=NetAC1_12 Pin=AC1-12
+Added Pin To Net: NetName=NetAC1_12 Pin=R47-1
+Added Net: Name=NetAC1_12
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=R48-1
+Added Net: Name=NetIC1_12
+Added Member To Class: ClassName=Sensors Member=Component R47 0R
+Added Member To Class: ClassName=Sensors Member=Component R48 0R

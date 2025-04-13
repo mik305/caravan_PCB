@@ -1,4 +1,7 @@
-Record=TopLevelDocument|FileName=DC-DC.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=DC-DC.SchDoc|FileName=DC_DRIVERS.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=DC-DC.SchDoc|FileName=INTERFACE.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=DC-DC.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Amplifiers1.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Amplifiers1.SchDoc|FileName=Amplifiers2.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Amplifiers1.SchDoc|FileName=DC-DC.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Amplifiers1.SchDoc|FileName=DC_DRIVERS.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Amplifiers1.SchDoc|FileName=INTERFACE.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Amplifiers1.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Amplifiers1.SchDoc|FileName=Sensors.SchDoc|SheetNumber=7
