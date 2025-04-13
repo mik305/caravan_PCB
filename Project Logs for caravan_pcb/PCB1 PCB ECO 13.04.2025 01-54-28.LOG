@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetIC13_2 Pin=Q2-1
+Removed Pin From Net: NetName=NetC44_1 Pin=Q2-2
+Removed Pin From Net: NetName=3.3V Pin=Q2-3
+Removed Pin From Net: NetName=NetIC14_2 Pin=Q3-1
+Removed Pin From Net: NetName=NetC46_1 Pin=Q3-2
+Removed Pin From Net: NetName=3.3V Pin=Q3-3
+Removed Pin From Net: NetName=NetIC15_2 Pin=Q6-1
+Removed Pin From Net: NetName=NetC56_1 Pin=Q6-2
+Removed Pin From Net: NetName=3.3V Pin=Q6-3
+Removed Pin From Net: NetName=NetIC16_2 Pin=Q7-1
+Removed Pin From Net: NetName=NetC58_1 Pin=Q7-2
+Removed Pin From Net: NetName=3.3V Pin=Q7-3
+Removed Member From Class: ClassName=Amplifiers1 Member=Q2
+Removed Member From Class: ClassName=Amplifiers1 Member=Q3
+Removed Member From Class: ClassName=Amplifiers2 Member=Q6
+Removed Member From Class: ClassName=Amplifiers2 Member=Q7
+Added Member To Class: ClassName=DC_DRIVERS Member=Component CON8 1 Pin
