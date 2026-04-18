@@ -1,4 +1,3 @@
-<img width="2000" height="1125" alt="Prezentacja_caravan_page-0001" src="https://github.com/user-attachments/assets/cea27314-f1f0-49e8-afa9-4aaed89a57cf" />
 <img width="2000" height="1125" alt="Prezentacja_caravan_page-0002" src="https://github.com/user-attachments/assets/c270d717-a00d-4443-881b-7a8d4eb5f7ec" />
 <img width="2000" height="1125" alt="Prezentacja_caravan_page-0003" src="https://github.com/user-attachments/assets/20871303-63d2-45d3-9bc6-1efdc258b072" />
 <img width="2000" height="1125" alt="Prezentacja_caravan_page-0004" src="https://github.com/user-attachments/assets/054a1677-a660-463a-b519-b0be6cc627e1" />
@@ -13,7 +12,6 @@
 <img width="2000" height="1125" alt="Prezentacja_caravan_page-0013" src="https://github.com/user-attachments/assets/26f3fc04-7eed-40e6-85f9-c68ef99ba1bc" />
 <img width="2000" height="1125" alt="Prezentacja_caravan_page-0014" src="https://github.com/user-attachments/assets/0e83deb6-b7a2-4cf9-a0f1-da88c968f1b1" />
 <img width="2000" height="1125" alt="Prezentacja_caravan_page-0015" src="https://github.com/user-attachments/assets/29ce5ee5-70bf-4689-b5fa-01871a1d1f77" />
-<img width="2000" height="1125" alt="Prezentacja_caravan_page-0016" src="https://github.com/user-attachments/assets/f381c987-2e05-4b47-bcdb-aae967f37fc0" />
 
 ![image](https://github.com/user-attachments/assets/dd2a57d3-2ac2-49d2-8fdd-912cc4a3e663)
 ![image](https://github.com/user-attachments/assets/db3103c3-22ca-47c7-8fae-3269a55b9b74)
